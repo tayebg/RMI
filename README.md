@@ -65,7 +65,9 @@ cd Client && mvn exec:java
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Tayeb Bekkouche — [https://github.com/tayebg](https://github.com/tayebg)
+
+[Tayeb Bekkouche](https://github.com/tayebg)
