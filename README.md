@@ -1,4 +1,4 @@
-# RMI Calculator — Distributed Calculator with Java RMI
+# RMI Distributed Calculator — Java RMI Client/Server
 
 A client-server distributed calculator application using Java Remote Method Invocation (RMI). The client provides a graphical desktop interface (Swing) to perform arithmetic operations executed remotely on the server.
 
